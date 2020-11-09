@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Vinoth's blog!"
 date:   2020-11-03 22:41:12 +0000
 categories: jekyll update
-tags: kotlin literatture
+tags: Kotlin
 author: Vinoth Kumar
 ---
 This is a new  blog - my blog
