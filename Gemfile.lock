@@ -258,6 +258,8 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-feed
+  jekyll-paginate
+  jekyll-remote-theme
   minima
   tzinfo (~> 1.2)
   tzinfo-data
