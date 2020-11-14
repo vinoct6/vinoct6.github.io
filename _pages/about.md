@@ -5,20 +5,21 @@ author: "Vinoth Kumar"
 permalink: /about/
 ---
 
-I'm Vinoth and I live in London. 
+![My Picture](images/about_me.jpg)
 
-I'm a lead software engineer, architect and engineering manager by profession. I'm most fulfilled at work when I enable people to reach their potential.
-When I'm not working or spending time with my family, I read. I read **a lot**. I always make sure that I have my kindle and iPad with me. My favorite trips are to 
-the book shops in London ( Waterstones, Foyles, Daunt books) and I spend endless hours browsing in libraries in London ( the one in Barbican center is my favorite)
+I'm Vinoth. I live with my wife and son in London.
 
-I read across variety of disciplines (Literature, History, Political Science, Economics, Philosophy, Computer Science etc.,) , and the interest varies from time to time. 
+I'm a lead software engineer, architect and engineering manager by profession. I am equally at ease with hands-on programming,
+reasoning about abstractions in software architecture and leading engineering teams. 
+I’m top [4% of the users in Stackoverflow](https://stackoverflow.com/users/571718/vinoth-kumar-c-m) and [top 1% of users in Software Development Stackexchange](https://softwareengineering.stackexchange.com/users/17887/vinoth-kumar-c-m). 
 
-These days, I'm interested in the overarching questions of
-    - The problem of knowledge:  How do we know what we know ? How do we effectively search for information ? how do we retain knowledge ?  etc.,
-    - The problem of conduct: How do we conduct ourselves ? What are the biases that affect our conduct ? etc.,
-    - The problem of organisation: How do we organise ourselves into teams to become greater than ourselves.
-    
-I'm here to mostly write about leadership, digital transformation, programming & technology among other things.
 
-You can reach out to me at vinooct6@gmail.com
+In my free time, I read. I read **a lot**. I always have paperbacks or Kindle with me .. just in case. My favorite trips are to 
+the bookshops in London ( Waterstones, Foyles, Daunt books, London Review Bookshop etc.,) and I spend endless hours browsing in public libraries in London.
+
+I read across variety of disciplines (Literature, History, Political Science, Economics, Philosophy, Computer Science etc.,).
+
+This blog is to capture the concepts, ideas, quotes etc., from what I read.   
+
+Reach out to me at vinoct6  (at) gmail.com
  
